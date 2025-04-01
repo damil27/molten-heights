@@ -1,5 +1,6 @@
-import Header from "@/components/ui/shareed/header";
-import Footer from "@/components/ui/shareed/header/footer";
+import Header from "@/components/shared/header";
+import Footer from "@/components/shared/header/footer";
+
 
 
 export default async function HomeLayout({
